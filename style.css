@@ -1,0 +1,13 @@
+<style>
+    p{text-align: justify;}
+    section{border: 5px solid rgb(7, 121, 173);
+border-radius: 15px;
+width: 28%;
+display: inline-block;
+margin: 5px;
+padding:10px;
+    }
+    div{
+        color: rgb(89, 42, 165);
+    }
+   </style>
